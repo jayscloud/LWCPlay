@@ -1,0 +1,292 @@
+[
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1544938613268,
+            "changeTime": 1544938613268,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1544938613268,
+            "changeTime": 1544938613268,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546933467104,
+            "changeTime": 1546933467104,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1544938613268,
+            "changeTime": 1544938613268,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546937093862,
+            "changeTime": 1546937093862,
+            "contentHash": "f8a0b484c132f39460e7beb63b3e46bb3fad3314",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1544939054450,
+            "changeTime": 1544939054450,
+            "contentHash": "53f955e7650ec82d25c8a07194b1fe6ddce8d87b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld/helloworld.html",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld/helloworld.html",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1546860406352,
+            "changeTime": 1546860406352,
+            "contentHash": "97b85fcf8bc33d37e2241ed3dd28d91126f3eaba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld/helloworld.js",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld/helloworld.js",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1544939296641,
+            "changeTime": 1544939296641,
+            "contentHash": "3434a5c8686cb4c9fe4cb6b043a5b12a36c6b9d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld/helloworld.js-meta.xml",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloworld/helloworld.js-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1544939377936,
+            "changeTime": 1544939377936,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1544938623212,
+            "changeTime": 1544938623212,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546861206622,
+            "changeTime": 1546861206622,
+            "contentHash": "0e7264aa489110c6675db80b7eb99ebbc6a319d4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList/WelcomeList.html",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList/WelcomeList.html",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1546862005053,
+            "changeTime": 1546862005053,
+            "contentHash": "10d0314a7030f28156d9a627b675320d67abf48b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList/WelcomeList.js",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList/WelcomeList.js",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1546862069185,
+            "changeTime": 1546862069185,
+            "contentHash": "7f9a3e3383e50d300811ac390034ba7e2f8d780f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList/WelcomeList.js-meta.xml",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/WelcomeList/WelcomeList.js-meta.xml",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1546861809561,
+            "changeTime": 1546861809561,
+            "contentHash": "249b295923b242b939c566062389071db49e93f2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546933513700,
+            "changeTime": 1546933513700,
+            "contentHash": "198cb5f02f0d973c7b7f874436feeb2d3c56677c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/classes/LWCApexPlay.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/classes/LWCApexPlay.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 482,
+            "modifiedTime": 1546943632176,
+            "changeTime": 1546943632176,
+            "contentHash": "a38e2408f553099df79866a05a93272c1a4ce40f"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/classes/LWCApexPlay.cls-meta.xml",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/classes/LWCApexPlay.cls-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1546933513700,
+            "changeTime": 1546933513700,
+            "contentHash": "aaea67e3d08277abb3f1f0cf297366db2b2ff9a3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546937093862,
+            "changeTime": 1546937093862,
+            "contentHash": "e550be2cbb0843e57dd65e81561fec8a6312d7ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo/apexCallDemo.html",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo/apexCallDemo.html",
+            "isDirectory": false,
+            "size": 821,
+            "modifiedTime": 1546943498246,
+            "changeTime": 1546943498246,
+            "contentHash": "8d84071eaee5036e0b8309cefb8fe17fbb4c4773",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo/apexCallDemo.js",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo/apexCallDemo.js",
+            "isDirectory": false,
+            "size": 1012,
+            "modifiedTime": 1546943647520,
+            "changeTime": 1546942884082,
+            "contentHash": "78c5f9be60ff630e8fa9efc51d54d97f4449529e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo/apexCallDemo.js-meta.xml",
+        {
+            "sourcePath": "/home/jmandal/Sfdxproject/HelloWorldLightningWebComponent/force-app/main/default/lwc/apexCallDemo/apexCallDemo.js-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1546940191745,
+            "changeTime": 1546940191745,
+            "contentHash": "d0d94b10ad7b24ea6927f45fdfc06bc2e996e931",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

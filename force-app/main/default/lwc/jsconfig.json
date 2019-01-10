@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/apex-call-demo": [
+                "apexCallDemo/apexCallDemo.js"
+            ],
+            "c/helloworld": [
+                "helloworld/helloworld.js"
+            ],
+            "c/welcome-list": [
+                "WelcomeList/WelcomeList.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}

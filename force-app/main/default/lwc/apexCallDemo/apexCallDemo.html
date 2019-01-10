@@ -1,0 +1,29 @@
+<template>
+    <p>This is ApexCallDemo LWC</p>
+    <lightning-layout>
+    <lightning-layout-item padding="around-small"> 
+        <template for:each={listrecords} for:item="data" for:index="index">
+           {data}
+
+        </template>
+    </lightning-layout-item>
+
+    <lightning-layout-item padding="around-small">
+        <template if:true={maprecords}>
+            <p>Showing Record in Map after on butoon clik response</p>
+        <template for:each={maprecords} for:item="data" for:index="index">
+            <li key={data.key}>{data.key}. {data.value}</li>
+
+        </template>
+    </template>
+    </lightning-layout-item>
+    <lightning-layout-item padding="around-small">
+        <lightning-button label="Call Apex" onclick={clickhandler} variant="Brand"></lightning-button>
+
+    </lightning-layout-item>
+    
+        
+    
+
+    </lightning-layout>
+</template>
