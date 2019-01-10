@@ -2,7 +2,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\LWCApexPlay.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\LWCApexPlay.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\LWCApexPlay.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\LWCApexPlay.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -107,7 +107,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo\\apexCallDemo.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo\\apexCallDemo.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo\\apexCallDemo.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo\\apexCallDemo.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo\\apexCallDemo.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\apexCallDemo\\apexCallDemo.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -182,7 +182,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -242,7 +242,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList\\WelcomeList.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList\\WelcomeList.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -272,7 +272,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList\\WelcomeList.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList\\WelcomeList.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList\\WelcomeList.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\WelcomeList\\WelcomeList.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -302,7 +302,7 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent",
             "isDirectory": true,
             "isMetadataFile": false,
