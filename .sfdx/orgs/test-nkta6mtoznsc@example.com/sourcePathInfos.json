@@ -35,13 +35,12 @@
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1547095576751,
-            "changeTime": 1547095576751,
-            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "modifiedTime": 1547201543387,
+            "changeTime": 1547201543387,
+            "contentHash": "4fa3fd15721be279c055cbe3eddbfddae45ef4ac",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -50,13 +49,12 @@
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1544938614000,
-            "changeTime": 1547095576753,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1547201195104,
+            "changeTime": 1547201195104,
+            "contentHash": "272a81abc76bf2fe9d42d00e737cd6d6c798bb2b",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -65,9 +63,9 @@
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1547095576315,
-            "changeTime": 1547095576315,
-            "contentHash": "198cb5f02f0d973c7b7f874436feeb2d3c56677c",
+            "modifiedTime": 1547120392783,
+            "changeTime": 1547120392783,
+            "contentHash": "33d74daff083a155a351def92e5405a92243cad8",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -80,8 +78,8 @@
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\LWCApexPlay.cls",
             "isDirectory": false,
             "size": 482,
-            "modifiedTime": 1547095576347,
-            "changeTime": 1547095576347,
+            "modifiedTime": 1547181291491,
+            "changeTime": 1547181291491,
             "contentHash": "a38e2408f553099df79866a05a93272c1a4ce40f",
             "isMetadataFile": false,
             "state": "u",
@@ -110,13 +108,12 @@
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1547095576634,
-            "changeTime": 1547095576634,
-            "contentHash": "baadbce79150b6db54abf2ee87696564776c846f",
+            "modifiedTime": 1547205238083,
+            "changeTime": 1547205238083,
+            "contentHash": "964f5e3902f0bb0641155aec6215dbee6a117747",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -197,15 +194,16 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
         {
-            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 445,
             "modifiedTime": 1547101954333,
             "changeTime": 1547101954333,
+            "contentHash": "0f1bfb763efa56bab36d3d60f03487fa602ac591",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "0f1bfb763efa56bab36d3d60f03487fa602ac591"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -301,15 +299,860 @@
     [
         "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent",
         {
-            "state": "u",
             "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1547101275702,
             "changeTime": 1547101275702,
-            "isWorkspace": true,
-            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e"
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547114050558,
+            "changeTime": 1547114050558,
+            "contentHash": "003c30ce08e31f34116476eae2bd0b5059151ae6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547114050558,
+            "changeTime": 1547114050558,
+            "contentHash": "68cf8ddf00b6c6c14a92af7fc9e06c44eff56640",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple\\eventSimple.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple\\eventSimple.html",
+            "isDirectory": false,
+            "size": 34,
+            "modifiedTime": 1547116671243,
+            "changeTime": 1547116671243,
+            "contentHash": "d2b4100d86027b8b5333586f27cb24e9c8bf7c2c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple\\eventSimple.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple\\eventSimple.js",
+            "isDirectory": false,
+            "size": 217,
+            "modifiedTime": 1547114830610,
+            "changeTime": 1547114830610,
+            "contentHash": "bbd47dac79d441780b616a57e5562b149101889e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple\\eventSimple.js-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventSimple\\eventSimple.js-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1547116339772,
+            "changeTime": 1547116339772,
+            "contentHash": "98cfee7a8425f6a8105c527af0d0bc2db1316c2c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator\\paginator.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator\\paginator.html",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1547114382092,
+            "changeTime": 1547114382092,
+            "contentHash": "1d6dddbf97825404f093ce60f02bbc7cc768cb3a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator\\paginator.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator\\paginator.js",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1547114586728,
+            "changeTime": 1547114586728,
+            "contentHash": "bcb018f8bc52eb9dce0582f31fe79e0a6c5ff9d3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator\\paginator.js-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\paginator\\paginator.js-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1547115664067,
+            "changeTime": 1547115664067,
+            "contentHash": "02f307b0db07d0e0640566fa87fd9583dbc1b398",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547115334826,
+            "changeTime": 1547115334826,
+            "contentHash": "14c47afe5c8d811cc615fa2549f573a46cbe68e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails\\userDeatails.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails\\userDeatails.html",
+            "isDirectory": false,
+            "size": 257,
+            "modifiedTime": 1547115524601,
+            "changeTime": 1547115524601,
+            "contentHash": "3cca7c0cc4fa8fa54e752fa4e8f9308722ebaa4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails\\userDeatails.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails\\userDeatails.js",
+            "isDirectory": false,
+            "size": 102,
+            "modifiedTime": 1547115334816,
+            "changeTime": 1547115334816,
+            "contentHash": "007882053b47ca7f77e9d8dd3ceaf876abe0d85c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails\\userDeatails.js-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\userDeatails\\userDeatails.js-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1547115652519,
+            "changeTime": 1547115652519,
+            "contentHash": "1ec51d34afc9bb974465776600f69f50065ae8ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547116803680,
+            "changeTime": 1547116803680,
+            "contentHash": "08ebba4df1446402584840b7d55297e60f98a15a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent\\simpleEvent.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent\\simpleEvent.html",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1547117143831,
+            "changeTime": 1547117143831,
+            "contentHash": "370f00d69754c1d86d510090458008728e37a98e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent\\simpleEvent.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent\\simpleEvent.js",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1547116981152,
+            "changeTime": 1547116981152,
+            "contentHash": "8b316d0ed0d441689252334be9b9d8aa50ec4a10",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent\\simpleEvent.js-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\simpleEvent\\simpleEvent.js-meta.xml",
+            "isDirectory": false,
+            "size": 398,
+            "modifiedTime": 1547116830066,
+            "changeTime": 1547116830066,
+            "contentHash": "086af4e8a58425aa81fd8a75f7e766e7213cc919",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547120080394,
+            "changeTime": 1547120080394,
+            "contentHash": "3eb0484a41474f86ff8895c3e14f5e83b6aed34a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547120241605,
+            "changeTime": 1547120241605,
+            "contentHash": "01c41fcd89f781122a730f74ae989f9a529c3767",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1547181296603,
+            "changeTime": 1547181296603,
+            "contentHash": "f1e9558a7e5bc1f848b1124cbc55903737713174",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1547120392783,
+            "changeTime": 1547120392783,
+            "contentHash": "0e475c2265ae655e9dc76a677d3d809a7bb97417",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem\\contactListItem.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem\\contactListItem.html",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1547180429938,
+            "changeTime": 1547180429938,
+            "contentHash": "196eb972867fb71232598e5231df9022630d11b7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem\\contactListItem.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem\\contactListItem.js",
+            "isDirectory": false,
+            "size": 574,
+            "modifiedTime": 1547181537242,
+            "changeTime": 1547181537242,
+            "contentHash": "fa47418c8a2a910c4786cc9ce00df9adfcb47faf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem\\contactListItem.js-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactListItem\\contactListItem.js-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1547120957187,
+            "changeTime": 1547120957187,
+            "contentHash": "fe1a8097888dee1f1808f1fa30a5db183978f168",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.html",
+            "isDirectory": false,
+            "size": 1460,
+            "modifiedTime": 1547194634243,
+            "changeTime": 1547194634243,
+            "contentHash": "dec3b7d891aab08e9e9ed8d1bd1300262e5c9353",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.js",
+            "isDirectory": false,
+            "size": 565,
+            "modifiedTime": 1547181939338,
+            "changeTime": 1547181939338,
+            "contentHash": "8cec66559a3a195224247f98df236a2a0c9157dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.js-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.js-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1547121187752,
+            "changeTime": 1547121187752,
+            "contentHash": "e0eb50645edd84eee52e201a2f0dfc240fc46d5f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547200220955,
+            "changeTime": 1547200220955,
+            "contentHash": "d93812850630546e637eeb0d9ef8f2bdbf263908",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.app",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.app",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1547200894591,
+            "changeTime": 1547200894591,
+            "contentHash": "6bd4d42075f9437a5b75fb3233c1781a40842026",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.app-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 250,
+            "modifiedTime": 1547200220938,
+            "changeTime": 1547200220938,
+            "contentHash": "ea61dfcb8de37c5de1acb58643e06ae07167043a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.auradoc",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547200220955,
+            "changeTime": 1547200220955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.css",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547200220948,
+            "changeTime": 1547200220948,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.svg",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraApp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547200220952,
+            "changeTime": 1547200220952,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraAppController.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraAppController.js",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1547200774166,
+            "changeTime": 1547200774166,
+            "contentHash": "d8bcbc8da65e663952b5aef6724e7beebcc2fe1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraAppHelper.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraAppHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547200220946,
+            "changeTime": 1547200220946,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraAppRenderer.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCinAuraApp\\ShowLWCinAuraAppRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547200220950,
+            "changeTime": 1547200220950,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547201035724,
+            "changeTime": 1547201035724,
+            "contentHash": "c7b26f030c9282b0e8de58cc12b4c66b34948142",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547201195123,
+            "changeTime": 1547201195123,
+            "contentHash": "8065a71d94833e009fb27cd2d29fcd2f399be2c6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.auradoc",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547201035723,
+            "changeTime": 1547201035723,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.cmp",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.cmp",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1547202138915,
+            "changeTime": 1547202138915,
+            "contentHash": "a0b3cd4a4f5aec07312283581c064b3bee547a2c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1547201035707,
+            "changeTime": 1547201035707,
+            "contentHash": "733f29e86910a126acd8887cac66538600864722",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.css",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547201035719,
+            "changeTime": 1547201035719,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.design",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547201035724,
+            "changeTime": 1547201035724,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.svg",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVF.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547201035721,
+            "changeTime": 1547201035721,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVFController.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVFController.js",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1547201124155,
+            "changeTime": 1547201124155,
+            "contentHash": "d8bcbc8da65e663952b5aef6724e7beebcc2fe1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVFHelper.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVFHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547201035717,
+            "changeTime": 1547201035717,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVFRenderer.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\ShowLWCInAurandVF\\ShowLWCInAurandVFRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547201035720,
+            "changeTime": 1547201035720,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.app",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.app",
+            "isDirectory": false,
+            "size": 86,
+            "modifiedTime": 1547201476793,
+            "changeTime": 1547201476793,
+            "contentHash": "17aa78696bbf904a555e8c6a60912df9c2ae66f4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.app-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.app-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1547201195111,
+            "changeTime": 1547201195111,
+            "contentHash": "42dee1fc68116ce449cd6f7646ada1b88edad1f0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.auradoc",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547201195123,
+            "changeTime": 1547201195123,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.css",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547201195119,
+            "changeTime": 1547201195119,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.svg",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVF.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547201195122,
+            "changeTime": 1547201195122,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVFController.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVFController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547201195117,
+            "changeTime": 1547201195117,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVFHelper.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVFHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547201195118,
+            "changeTime": 1547201195118,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVFRenderer.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\showLWCInVF\\showLWCInVFRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547201195121,
+            "changeTime": 1547201195121,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\visualforce",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\visualforce",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547201573135,
+            "changeTime": 1547201573135,
+            "contentHash": "9129d96b6f957e368cc648a5fcddda01ea71aed9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\visualforce\\ShowLWC.page",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\visualforce\\ShowLWC.page",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1547202239307,
+            "changeTime": 1547202239307,
+            "contentHash": "ba746130fd71698456bb67e41c996ba377ca71c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\visualforce\\ShowLWC.page-meta.xml",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\visualforce\\ShowLWC.page-meta.xml",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1547201573135,
+            "changeTime": 1547201573135,
+            "contentHash": "426e5a2a68c54705caad09383f97fc789685c937",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547205238095,
+            "changeTime": 1547205238095,
+            "contentHash": "79e00794330ba89486a51f749c0dd22316670f64",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule\\configSVGModule.html",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule\\configSVGModule.html",
+            "isDirectory": false,
+            "size": 27,
+            "modifiedTime": 1547205238095,
+            "changeTime": 1547205238095,
+            "contentHash": "f77f405276fce2c457b8423303ffccb5a455abce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule\\configSVGModule.js",
+        {
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule\\configSVGModule.js",
+            "isDirectory": false,
+            "size": 105,
+            "modifiedTime": 1547205238084,
+            "changeTime": 1547205238084,
+            "contentHash": "33c5dad55f7b5413a305793d9ff2c0e5bd5b6191",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule\\configSVGModule.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Salesforce\\Project\\Sfdxproject\\Sfdxproject\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\configSVGModule\\configSVGModule.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 634,
+            "modifiedTime": 1547205970082,
+            "changeTime": 1547205970082,
+            "contentHash": "f44a91f50b16becc66dfe53fb8482b5fb5578f9e"
         }
     ]
 ]

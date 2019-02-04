@@ -1,0 +1,14 @@
+<apex:page>
+<div id="lightning"></div>
+<apex:includeLightning />
+<script>
+    $Lightning.use("c:showLWCInVF", function() {
+      $Lightning.createComponent("c:ShowLWCInAurandVF",
+      { message : "This attribute is sent from VF to lightning App!" },
+      "lightning",
+      function(cmp) {
+        // do some stuff
+      });
+    });
+</script>
+</apex:page>

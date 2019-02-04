@@ -6,8 +6,29 @@
             "c/apex-call-demo": [
                 "apexCallDemo/apexCallDemo.js"
             ],
+            "c/config-svg-module": [
+                "configSVGModule/configSVGModule.js"
+            ],
+            "c/contact-list-item": [
+                "contactListItem/contactListItem.js"
+            ],
+            "c/event-simple": [
+                "eventSimple/eventSimple.js"
+            ],
+            "c/event-with-data": [
+                "eventWithData/eventWithData.js"
+            ],
             "c/helloworld": [
                 "helloworld/helloworld.js"
+            ],
+            "c/paginator": [
+                "paginator/paginator.js"
+            ],
+            "c/simple-event": [
+                "simpleEvent/simpleEvent.js"
+            ],
+            "c/user-deatails": [
+                "userDeatails/userDeatails.js"
             ],
             "c/welcome-list": [
                 "WelcomeList/WelcomeList.js"
